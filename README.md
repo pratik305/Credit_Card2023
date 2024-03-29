@@ -11,7 +11,7 @@ This dataset contains credit card transactions made by European cardholders in t
 # Getting Started
  get the code from the repository
 
-      git clone https://github.com/sagnikghoshcr7/Credit-Card-Fraud-Detection.git 
+       https://github.com/pratik305/Credit_Card2023.git
 
 download the dataset  
 
